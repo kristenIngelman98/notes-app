@@ -1,8 +1,4 @@
-// const getNotes = () => {
-//     console.log("Your notes...")
-// }
-
-const getNotes = function() {
+const getNotes = () => {
     return "Your notes..."
 }
 
